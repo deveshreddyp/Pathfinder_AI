@@ -7,3 +7,4 @@ chromadb
 networkx
 pyvis
 python-dotenv
+pysqlite3-binary
